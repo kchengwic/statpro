@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<multipleOcpRequest>
+  <measures>Rp,Ctp,Wp</measures>
+  <timePeriods>
+    <timePeriod>
+      <name>2017</name>
+      <start>2017-10-13</start>
+      <end>2017-11-13</end>
+    </timePeriod>
+  </timePeriods>
+  <segments>
+    <segment>
+      <id>1029</id>
+      <periods>2017</periods>
+    </segment>
+    <segment>
+      <id>1060</id>
+      <periods>2017</periods>
+    </segment>
+  </segments>
+</multipleOcpRequest>

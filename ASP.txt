@@ -1,0 +1,15 @@
+StatPro Revolution Web API
+Batch Application Access
+Batch application Water Island Capital Funds can now be configured to access data for user Data Feed from the Revolution Web API. The application will require this Data Feed User's email address and Application Specific Password (ASP), both of which are listed below. Please refer to the application's documentation / Help screens for details about how it is configured. You will need to perform this configuration before closing this page.
+
+For security, this password will never be displayed again. If you don't manage to record the password, please contact support for assistance.
+
+Email:	datafeed.5471da97@noreply-statpro.com
+ASP:	zu(gZ{^GZ3DG%D{t9[oI}2$iU|H)$S%OhDP=]|I$Y;]%C&pOE_55SwQq#gb;Zx/!
+
+
+Client application 'Water Island Capital Funds'
+Public id = wicfunds
+Client secret = d13EJqirtGne90plBj8
+Contact user = kcheng@wicfunds.com 
+Type = Batch
